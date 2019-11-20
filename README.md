@@ -16,11 +16,11 @@ SISTEM PERIKLANAN (MARKETPLACE) BERBASIS WEB
 <img src="https://github.com/aka0586/PWL-UAS-2019/blob/master/SS/7.JPG" width="256">&nbsp;&nbsp;
 
 ## Requirements 
-1.PHP 5.4 or newer.&nbsp;
+1.PHP  
+2.HTTP Server, ( localhost:/ )
+3.MySQLi 
+4.Framework Bootstrap 3
 
-2.HTTP Server, e.g. NginX or Apache either.&nbsp;
-
-3.MySQLi Server 5.x or newer for main database.&nbsp;
 
 
 ## FITUR 
