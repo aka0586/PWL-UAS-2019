@@ -40,7 +40,6 @@ SISTEM PERIKLANAN (MARKETPLACE) BERBASIS WEB
 3. chat online
 4. keamanan transaksi langsung 
 
-## Memo
-link  :  http://baangbrow-store.byethost32.com
 
-selamat mencoba
+
+selamat mencoba dan kembangkan kembali
